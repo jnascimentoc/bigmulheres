@@ -39,6 +39,12 @@ estados = {'RJ': 'Rio de Janeiro',
            'MG': 'Minas Gerais',
            'ES': 'Espírito Santo'}
 print(estados)
+print(estados.keys())
+print(estados.values())
+
+candidatos = {'Larissa': 28,
+              'João': '47'}
+
 
 
 
