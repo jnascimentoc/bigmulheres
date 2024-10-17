@@ -1,4 +1,5 @@
 #Funções
+'''
 def somar(parametro1,parametro2):
     return parametro1 + parametro2
 
@@ -15,7 +16,7 @@ print(somar(20,30))
 print(subtrair(20,30))
 print(multiplicar(20,30))
 print(dividir(20,30))
-
+'''
 ###Exemplo de melhoramento de códigio
 '''
 5) Escreva um programa que leia as notas das duas avaliações normais e a nota da avaliação optativa dos estudantes de uma turma. Caso o estudante não tenha feito a optativa, 
@@ -24,7 +25,7 @@ nota mais baixa entre as duas primeiras avaliações. Escrever a média e mensag
 está em exame, de acordo com as informações abaixo: 
 Aprovado: média >= 6.0, Reprovado: média < 3.0, Exame: média >= 3.0 e < 6.0;
 '''
-
+'''x
 def boletim():
     # Ler as notas das avaliações normais
     av1 = float(input("Digite a nota da Avaliação 1: "))
@@ -62,3 +63,29 @@ def multiplica():
     return resultado
 
 print(multiplica())
+peso = float(input("Insira o peso: "))
+
+def calcula_multa():
+    if peso > 100:
+        multa = (peso / 3) + 1.5
+        print(f'Você ultrapassou o peso permitido, pague: R$ {multa:.2f}')
+    else:
+       return print("Pode continuar a pescar!")
+
+ calcula_multa()      
+'''
+
+#Importação de biblioteca
+import random #Trabalhar com dados grandes
+
+#Crie uma função que gere dois numeros 
+def gerar_numeros(minimo,maximo):
+    for i in range(2):
+        return random.randint(minimo,maximo)
+
+numeros = gerar_numeros(1,100)
+print(numeros)
+
+import os
+import sys
+import datetime
