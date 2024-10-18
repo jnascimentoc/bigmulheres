@@ -8,7 +8,7 @@ impares = []
 contador_par = 0
 contador_impar = 0
 
-while contador_par < 2 or contador_impar < 2:
+while contador_par < 20 or contador_impar < 20:
     numero = int(input("Digite um número: "))
     if numero in numeros:
         print("Esse número já foi inserido. Tente novamente.")
