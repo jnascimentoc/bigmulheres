@@ -1,0 +1,110 @@
+doctor_id,title,name,city1,city2,region,specialization,reviews,newest_review_date,telemedicine,price,url,fetch_time
+7749,Dr.,Octavio Grecco,São Paulo,sao-paulo,sao-paulo-sp,alergista,5,2022-10-13T16:50:21-03:00,0,800,http://www.doctoralia.com.br/octavio-grecco,2022-10-28 20:55:01
+424668,Dra.,Marcia Toraiwa Iwashita,São Paulo,sao-paulo,sao-paulo-sp,alergista,41,2022-10-25T13:28:19-03:00,1,600,http://www.doctoralia.com.br/marcia-toraiwa-iwashita,2022-10-28 20:55:02
+758125,Dra.,Pamela Fernanda Alves Barbosa,São Paulo,sao-paulo,sao-paulo-sp,alergista,19,2022-10-19T21:24:28-03:00,0,490,http://www.doctoralia.com.br/pamela-fernanda-alves-barbosa,2022-10-28 20:55:05
+544831,Dra.,Marilene Ricci Ganem,São Paulo,sao-paulo,sao-paulo-sp,alergista,114,2022-10-18T12:21:51-03:00,1,300,http://www.doctoralia.com.br/marilene-ricci-ganem,2022-10-28 20:55:06
+719643,Dra.,Gabriela De Oliveira Ferreira,Campina Grande,campina-grande,paraiba-pb,alergista,164,2022-10-28T12:03:08-03:00,1,350,http://www.doctoralia.com.br/gabriela-de-oliveira-ferreira,2022-10-28 20:55:08
+382053,Dra.,Lucia Cavalcanti,Rio de Janeiro,rio-de-janeiro,rio-de-janeiro-rj,alergista,36,2022-10-27T14:36:57-03:00,1,350,http://www.doctoralia.com.br/lucia-cavalcanti,2022-10-28 20:55:10
+468387,Dr.,Fernando Gomes Carvalho,Belo Horizonte,belo-horizonte,minas-gerais-mg,alergista,201,2022-10-20T12:53:48-03:00,0,350,http://www.doctoralia.com.br/fernando-gomes-carvalho,2022-10-28 20:55:10
+231556,Dra.,Bianca Selva Figueiredo,Joinville,joinville,santa-catarina-sc,alergista,338,2022-10-26T13:27:31-03:00,1,600,http://www.doctoralia.com.br/bianca-selva-figueiredo,2022-10-28 20:55:12
+302183,Dra.,Ana Paula Rosis,São Paulo,sao-paulo,sao-paulo-sp,alergista,84,2022-09-30T16:54:14-03:00,1,500,http://www.doctoralia.com.br/ana-paula-rosis,2022-10-28 20:55:15
+712738,Dr.,Antonio Augusto Mercadante Resende,Belo Horizonte,belo-horizonte,minas-gerais-mg,alergista,99,2022-10-27T15:55:23-03:00,0,,http://www.doctoralia.com.br/antonio-augusto-mercadante-resende,2022-10-28 20:55:18
+733608,Dra.,Barbara Mello,Ribeirão Preto,ribeirao-preto,sao-paulo-sp,alergista,9,2022-10-25T09:52:14-03:00,1,350,http://www.doctoralia.com.br/barbara-mello,2022-10-28 20:55:20
+629714,Dra.,Gabriella Melo,Aracaju,aracaju,sergipe-se,alergista,24,2021-06-08T20:11:38-03:00,1,500,http://www.doctoralia.com.br/gabriella-melo-2,2022-10-28 20:55:21
+303878,Dra.,Pilar Blanco,São Paulo,sao-paulo,sao-paulo-sp,alergista,155,2022-10-27T16:50:04-03:00,1,550,http://www.doctoralia.com.br/pilar-blanco,2022-10-28 20:55:22
+758020,Dra.,Allyne Moura,São Paulo,sao-paulo,sao-paulo-sp,alergista,17,2022-10-17T16:09:37-03:00,1,350,http://www.doctoralia.com.br/allyne-moura,2022-10-28 20:55:25
+339057,Dr.,Marcos Reis Gonçalves,Maceió,maceio,alagoas-al,alergista,46,2022-10-28T11:26:07-03:00,1,400,http://www.doctoralia.com.br/marcos-reis-goncalves-3,2022-10-28 20:55:27
+204554,Dr.,Wilen Brasil Júnior,Rio Verde,rio-verde,goias-go,alergista,289,2022-10-27T16:12:33-03:00,0,500,http://www.doctoralia.com.br/wilen-brasil-junior,2022-10-28 20:55:29
+713483,Dra.,Renata Kuschnir,Rio de Janeiro,rio-de-janeiro,rio-de-janeiro-rj,alergista,8,2022-10-14T15:17:31-03:00,1,Consultar valores,http://www.doctoralia.com.br/renata-kuschnir,2022-10-28 20:55:32
+357421,Dra.,Marília Rocha,Porto Velho,porto-velho,rondonia-ro,alergista-pediatrico,244,2022-10-23T15:00:55-03:00,0,,http://www.doctoralia.com.br/marilia-rocha,2022-10-28 20:55:36
+621416,Dra.,Juliana Murata,Curitiba,curitiba,parana-pr,pneumologista-pediatrico,325,2022-10-28T12:37:25-03:00,0,300,http://www.doctoralia.com.br/juliana-murata,2022-10-28 20:55:38
+734219,Dra.,Marilia Moraes Braghiroli,Salvador,salvador,bahia-ba,alergista-pediatrico,32,2022-10-20T11:08:45-03:00,1,500,http://www.doctoralia.com.br/marilia-moraes-braghiroli,2022-10-28 20:55:41
+437588,Dra.,Marília Almeida Do Amaral Lins,Maceió,maceio,alagoas-al,alergista-pediatrico,30,2022-09-19T17:16:11-03:00,0,200,http://www.doctoralia.com.br/marilia-almeida-do-amaral-lins,2022-10-28 20:55:43
+695692,Dr.,Diego Demuner,Nova Venécia,sao-mateus,espirito-santo-es,alergista,165,2022-10-28T16:59:02-03:00,1,400,http://www.doctoralia.com.br/diego-demuner,2022-10-28 20:55:44
+735494,Dra.,Roberta Roldi,Vila Velha,vila-velha,espirito-santo-es,pediatra,60,2022-10-28T11:11:17-03:00,1,350,http://www.doctoralia.com.br/roberta-roldi,2022-10-28 20:55:44
+465238,Dr.,Victor Lioi,São Paulo,osasco,sao-paulo-sp,pediatra,432,2022-10-13T18:42:50-03:00,1,450,http://www.doctoralia.com.br/victor-lioi,2022-10-28 20:55:47
+699703,Dra.,Bárbara Reis,Rio de Janeiro,niteroi,rio-de-janeiro-rj,pediatra,126,2022-10-28T10:47:34-03:00,1,350,http://www.doctoralia.com.br/barbara-reis,2022-10-28 20:55:49
+154970,Dra.,Luciana Ferreira De Araujo,Rio de Janeiro,rio-de-janeiro,rio-de-janeiro-rj,dermatologista,110,2022-09-21T08:11:22-03:00,0,,http://www.doctoralia.com.br/luciana-ferreira-de-araujo-2,2022-10-28 20:55:51
+475762,Dr.,Jonathan Zaze,Curitiba,curitiba,parana-pr,ortopedista-traumatologista,68,2022-09-28T10:36:05-03:00,0,110,http://www.doctoralia.com.br/jonathan-zaze,2022-10-28 20:55:53
+493266,Dr.,Rene Pimenta Da Silva Junior,Santo André,sao-paulo,sao-paulo-sp,patologista-clinico,5,2019-11-27T13:49:00-03:00,0,,http://www.doctoralia.com.br/rene-pimenta-da-silva-junior,2022-10-28 20:55:56
+492826,Dr.,Carlos Trindade,Belo Horizonte,belo-horizonte,minas-gerais-mg,especialista-em-dor,156,2022-10-27T13:52:33-03:00,1,Consultar valores,http://www.doctoralia.com.br/carlos-trindade,2022-10-28 20:56:00
+758601,Dra.,Angela Chrispim,Campinas,campinas,sao-paulo-sp,anestesiologista,1,2022-01-21T19:22:39-03:00,1,450,http://www.doctoralia.com.br/angela-chrispim,2022-10-28 20:56:01
+603723,Dr.,Olympio Chacon Neto,São Paulo,sao-paulo,sao-paulo-sp,especialista-em-dor,52,2022-10-18T14:07:26-03:00,1,600,http://www.doctoralia.com.br/olympio-chacon-neto,2022-10-28 20:56:02
+293755,Dra.,Viviane Alves Teixeira,Porto Alegre,porto-alegre,rio-grande-do-sul-rs,especialista-em-dor,150,2022-10-25T12:22:07-03:00,1,Consultar valores,http://www.doctoralia.com.br/viviane-alves-teixeira,2022-10-28 20:56:07
+734636,Dra.,Wanderli Soares Ramos De Carvalho,São Paulo,sao-paulo,sao-paulo-sp,anestesiologista,20,2022-07-22T12:59:47-03:00,1,500,http://www.doctoralia.com.br/wanderli-soares-ramos-de-carvalho-2,2022-10-28 20:56:08
+683925,Dr.,José Ronaldo Assad Cavalcante,Sorocaba,sorocaba,sao-paulo-sp,anestesiologista,100,2022-10-27T13:34:20-03:00,1,250,http://www.doctoralia.com.br/jose-ronaldo-assad-cavalcante,2022-10-28 20:56:09
+482268,Dra.,Tatiana Garcia Lopes,Niterói,niteroi,rio-de-janeiro-rj,especialista-em-dor,17,2022-09-16T20:59:26-03:00,0,300,http://www.doctoralia.com.br/tatiana-garcia-lopes,2022-10-28 20:56:09
+530729,Dra.,Maylane Magalhaes,Salvador,salvador,bahia-ba,especialista-em-dor,39,2022-09-20T20:10:05-03:00,1,Consultar valores,http://www.doctoralia.com.br/maylane-magalhaes-2,2022-10-28 20:56:11
+8950,Dra.,Ressala Castro Souza,Belo Horizonte,belo-horizonte,minas-gerais-mg,anestesiologista,35,2022-10-10T14:34:44-03:00,1,300,http://www.doctoralia.com.br/ressala-castro-souza,2022-10-28 20:56:14
+620645,Dr.,Eduardo Azevedo De Castro,Belo Horizonte,belo-horizonte,minas-gerais-mg,especialista-em-dor,98,2022-10-28T11:16:03-03:00,1,400,http://www.doctoralia.com.br/eduardo-azevedo-de-castro-2,2022-10-28 20:56:16
+756659,Dra.,Jéssica De Bem,Rio de Janeiro,rio-de-janeiro,rio-de-janeiro-rj,anestesiologista,11,2022-10-07T18:38:32-03:00,1,350,http://www.doctoralia.com.br/jessica-de-bem,2022-10-28 20:56:17
+749203,Dr.,Wagner Crensiglova,Ponta Grossa,ponta-grossa,parana-pr,anestesiologista,24,2022-10-24T16:35:13-03:00,0,,http://www.doctoralia.com.br/wagner-crensiglova,2022-10-28 20:56:17
+225550,Prof.,Ivan Benaduce Casella,São Paulo,sao-paulo,sao-paulo-sp,cirurgiao-vascular,3,2022-10-23T17:00:53-03:00,1,600,http://www.doctoralia.com.br/ivan-benaduce-casella,2022-10-28 20:56:21
+710350,Dra.,Marcia Regina Nobres Da Silva Pereira,Cuiabá,cuiaba,mato-grosso-mt,especialista-em-dor,7,2022-10-27T11:56:22-03:00,1,,http://www.doctoralia.com.br/marcia-regina-nobres-da-silva-pereira-2,2022-10-28 20:56:23
+133637,Dr.,Rodrigo Gurgel De Andrade,Rio de Janeiro,rio-de-janeiro,rio-de-janeiro-rj,angiologista,402,2022-10-27T13:37:29-03:00,0,,http://www.doctoralia.com.br/rodrigo-gurgel-de-andrade,2022-10-28 20:56:24
+347214,Dr.,Marcelo Stacanelli,São Paulo,sao-paulo,sao-paulo-sp,angiologista,98,2022-10-19T20:04:20-03:00,0,,http://www.doctoralia.com.br/marcelo-stacanelli,2022-10-28 20:56:31
+426429,Dr.,Cleinaldo De Almeida Costa,Manaus,manaus,amazonas-am,cirurgiao-vascular,119,2022-10-14T21:04:24-03:00,0,,http://www.doctoralia.com.br/cleinaldo-de-almeida-costa,2022-10-28 20:56:32
+513891,Dr.,Daniel Augusto Souza Rodrigues,Brasília,brasilia,distrito-federal-df,cirurgiao-vascular,169,2022-10-26T17:36:36-03:00,1,400,http://www.doctoralia.com.br/daniel-augusto-souza-rodrigues,2022-10-28 20:56:34
+362562,Dr.,Cesar Paulo Iaccino,São Paulo,sao-paulo,sao-paulo-sp,angiologista,236,2022-10-28T14:45:46-03:00,1,600,http://www.doctoralia.com.br/cesar-paulo-iaccino,2022-10-28 20:56:35
+399200,Dr.,Jaison Luiz Argenta,Brasília,brasilia,distrito-federal-df,angiologista,232,2022-10-27T17:15:45-03:00,1,400,http://www.doctoralia.com.br/jaison-luiz-argenta,2022-10-28 20:56:36
+484754,Dr.,Almondi Fagundes,Passo Fundo,passo-fundo,rio-grande-do-sul-rs,angiologista,90,2022-10-28T11:14:29-03:00,0,150,http://www.doctoralia.com.br/almondi-fagundes,2022-10-28 20:56:41
+615585,Dr.,Adjaldes Ribeiro De Moraes Junior,São Paulo,sao-paulo,sao-paulo-sp,cirurgiao-vascular,140,2022-10-20T16:58:51-03:00,1,Consultar valores,http://www.doctoralia.com.br/adjaldes-ribeiro-de-moraes-junior-2,2022-10-28 20:56:43
+548893,Dra.,Liza Batista Siqueira Carrijo,Goiânia,goiania,goias-go,cirurgiao-vascular,117,2022-10-25T16:12:35-03:00,1,,http://www.doctoralia.com.br/liza-batista-siqueira-carrijo-2,2022-10-28 20:56:46
+110846,Dr.,Breno França Vieira,Niterói,niteroi,rio-de-janeiro-rj,angiologista,97,2022-10-18T18:38:55-03:00,0,,http://www.doctoralia.com.br/breno-franca-vieira,2022-10-28 20:56:48
+766263,Dra.,Jaqueline Nerys Freitas,Belo Horizonte,belo-horizonte,minas-gerais-mg,cirurgiao-vascular,29,2022-10-24T18:30:17-03:00,0,350,http://www.doctoralia.com.br/jaqueline-nerys-freitas,2022-10-28 20:56:48
+521435,Dra.,Carolina Melo,Brasília,brasilia,distrito-federal-df,cirurgiao-vascular,71,2022-10-28T11:43:04-03:00,1,500,http://www.doctoralia.com.br/carolina-melo-4,2022-10-28 20:56:50
+340616,Dr.,Jerônimo Peleteiro Tourinho,Salvador,salvador,bahia-ba,angiologista,169,2022-10-12T11:43:44-03:00,1,300,http://www.doctoralia.com.br/jeronimo-peleteiro-tourinho-2,2022-10-28 20:56:52
+145300,Dr.,Eduardo Antonio Carpentieri,São Paulo,sao-paulo,sao-paulo-sp,angiologista,54,2022-09-29T17:43:17-03:00,0,500,http://www.doctoralia.com.br/eduardo-antonio-carpentieri,2022-10-28 20:56:56
+691614,Dra.,Queise Cettolin,Salvador,salvador,bahia-ba,cirurgiao-vascular,46,2022-10-21T18:06:29-03:00,0,250,http://www.doctoralia.com.br/queise-cettolin,2022-10-28 20:56:57
+43986,Dra.,Letícia Scolfaro Celegao,Campinas,campinas,sao-paulo-sp,angiologista,194,2022-10-27T23:43:16-03:00,1,650,http://www.doctoralia.com.br/leticia-scolfaro-celegao,2022-10-28 20:56:59
+31027,Prof.,Abdo Farret Neto,Natal,natal,rio-grande-do-norte-rn,angiologista,46,2022-10-22T10:53:58-03:00,1,350,http://www.doctoralia.com.br/abdo-farret-neto,2022-10-28 20:57:01
+220128,Dra.,Ana Carolina Ribeiro,Brasília,brasilia,distrito-federal-df,angiologista,204,2022-10-17T18:49:24-03:00,0,250,http://www.doctoralia.com.br/ana-carolina-ribeiro-2,2022-10-28 20:57:05
+278433,Dr.,Fabianno Zaghetto Campos,Sete Lagoas,sete-lagoas,minas-gerais-mg,cardiologista,12,2022-10-28T07:42:50-03:00,0,400,http://www.doctoralia.com.br/fabianno-zaghetto-campos,2022-10-28 20:57:07
+695234,Dr.,Guilherme Amaral Velho,Porto Alegre,porto-alegre,rio-grande-do-sul-rs,cardiologista,365,2022-10-25T20:34:54-03:00,1,400,http://www.doctoralia.com.br/guilherme-amaral-velho,2022-10-28 20:57:08
+442828,Dr.,Guilherme Spina,São Paulo,sao-paulo,sao-paulo-sp,cardiologista,77,2022-10-28T17:10:32-03:00,1,750,http://www.doctoralia.com.br/guilherme-spina,2022-10-28 20:57:12
+515012,Dr.,Caio Simões Souza,Unaí,unai,minas-gerais-mg,cardiologista,167,2022-10-27T18:02:20-03:00,1,750,http://www.doctoralia.com.br/caio-simoes-souza,2022-10-28 20:57:14
+693984,Dr.,Caio Garbeloti Soares De Souza,Ribeirão Preto,ribeirao-preto,sao-paulo-sp,cardiologista,76,2022-10-20T19:12:14-03:00,0,350,http://www.doctoralia.com.br/caio-garbeloti-soares-de-souza,2022-10-28 20:57:17
+42612,Dr.,Solermo Camarão Barbosa Júnior,Macapá,macapa,amapa-ap,cardiologista,59,2022-10-26T16:47:40-03:00,1,500,http://www.doctoralia.com.br/solermo-camarao-barbosa-junior,2022-10-28 20:57:17
+203338,Dr.,Ersival Pereira Artiaga,Ceres,ceres,goias-go,cardiologista,184,2022-10-25T15:12:18-03:00,1,300,http://www.doctoralia.com.br/ersival-pereira-artiaga,2022-10-28 20:57:20
+713108,Dra.,Kamilla Borges,Ceres,ceres,goias-go,cardiologista,195,2022-10-27T11:20:54-03:00,1,,http://www.doctoralia.com.br/kamilla-borges,2022-10-28 20:57:23
+553828,Dr.,Peter Melo,Recife,recife,pernambuco-pe,cardiologista,365,2022-10-28T12:52:52-03:00,1,180,http://www.doctoralia.com.br/peter-melo,2022-10-28 20:57:25
+457834,Dra.,Amanda Rocha Diniz Kimura,São Paulo,sao-paulo,sao-paulo-sp,cardiologista,74,2022-10-27T19:19:41-03:00,0,700,http://www.doctoralia.com.br/amanda-rocha-diniz-kimura,2022-10-28 20:57:26
+668089,Dr.,Michel Victor Lemes Da Silva,Sorocaba,sorocaba,sao-paulo-sp,cardiologista,99,2022-10-10T13:15:12-03:00,1,500,http://www.doctoralia.com.br/michel-victor-lemes-da-silva,2022-10-28 20:57:27
+44610,Dr.,Manuel Alberto Gil Domingues,Rio de Janeiro,rio-de-janeiro,rio-de-janeiro-rj,cardiologista,107,2022-10-10T18:21:39-03:00,0,400,http://www.doctoralia.com.br/manuel-alberto-gil-domingues,2022-10-28 20:57:31
+275344,Dr.,Marcos Benchimol,Rio de Janeiro,rio-de-janeiro,rio-de-janeiro-rj,cardiologista,86,2022-10-17T21:50:38-03:00,1,250,http://www.doctoralia.com.br/marcos-benchimol,2022-10-28 20:57:34
+188201,Dr.,Marcos Antonio Dantas De Almeida,São Paulo,sao-paulo,sao-paulo-sp,cardiologista,678,2022-10-27T16:25:33-03:00,0,600,http://www.doctoralia.com.br/marcos-antonio-dantas-de-almeida-2,2022-10-28 20:57:34
+712044,Dr.,Raniere Silveira Cabral,Maceió,maceio,alagoas-al,cardiologista,78,2022-09-09T16:52:48-03:00,0,550,http://www.doctoralia.com.br/raniere-silveira-cabral-2,2022-10-28 20:57:37
+220969,Dra.,Daniela Miranda Burello,Niterói,niteroi,rio-de-janeiro-rj,cardiologista,174,2022-10-18T18:52:47-03:00,1,400,http://www.doctoralia.com.br/daniela-miranda-burello-2,2022-10-28 20:57:39
+701257,Dr.,Marco Antonio Freitas De Queiroz Mauricio Filho,Brasília,brasilia,distrito-federal-df,cardiologista,51,2022-10-25T15:59:04-03:00,1,450,http://www.doctoralia.com.br/marco-antonio-freitas-de-queiroz-mauricio-filho,2022-10-28 20:57:42
+712782,Dra.,Marilia Alcoforado Domingues,João Pessoa,joao-pessoa,paraiba-pb,cardiologista-pediatrico,8,2022-10-05T13:30:46-03:00,0,300,http://www.doctoralia.com.br/marilia-alcoforado-domingues,2022-10-28 20:57:46
+781263,Dra.,Jaqueline Alessandra Castro Da Silva,Maricá,marica,rio-de-janeiro-rj,cardiologista-pediatrico,15,2022-10-24T17:06:22-03:00,1,130,http://www.doctoralia.com.br/jaqueline-alessandra-castro-da-silva-2,2022-10-28 20:57:46
+770186,Dra.,Luziclélia Janice De Andrade Reis,Belo Horizonte,belo-horizonte,minas-gerais-mg,cardiologista,13,2022-10-11T11:14:36-03:00,0,280,http://www.doctoralia.com.br/luziclelia-janice-de-andrade-reis,2022-10-28 20:57:50
+695131,Dra.,Marina Pinheiro Rocha Fantini,Belo Horizonte,belo-horizonte,minas-gerais-mg,cardiologista-pediatrico,12,2022-09-28T19:24:04-03:00,0,400,http://www.doctoralia.com.br/marina-pinheiro-rocha-fantini-2,2022-10-28 20:57:51
+727965,Dra.,Natália Moser,Recife,recife,pernambuco-pe,cardiologista-pediatrico,105,2022-10-27T15:45:46-03:00,0,,http://www.doctoralia.com.br/natalia-moser-2,2022-10-28 20:57:54
+497149,Dra.,Monica Cristina Rezende Fiore,Recife,recife,pernambuco-pe,cardiologista,48,2022-09-27T18:39:11-03:00,1,350,http://www.doctoralia.com.br/monica-cristina-rezende-fiore-2,2022-10-28 20:57:56
+240937,Dra.,Denise Regina Adamy,Curitiba,curitiba,parana-pr,cardiologista-pediatrico,335,2022-10-27T21:56:49-03:00,0,,http://www.doctoralia.com.br/denise-regina-adamy-2,2022-10-28 20:57:59
+308695,Dr.,Mauricio Amir De Azevedo,Rio de Janeiro,rio-de-janeiro,rio-de-janeiro-rj,cardiologista-pediatrico,12,2022-09-21T21:09:06-03:00,1,350,http://www.doctoralia.com.br/mauricio-amir-de-azevedo,2022-10-28 20:57:59
+757508,Dra.,Daniela Galbiati Abasto,Cotia,cotia,sao-paulo-sp,cardiologista-pediatrico,11,2022-10-01T09:02:31-03:00,0,350,http://www.doctoralia.com.br/daniela-galbiati-abasto,2022-10-28 20:58:00
+740797,Dra.,Alyne Ranaci,Recife,recife,pernambuco-pe,cardiologista-pediatrico,155,2022-10-28T12:23:49-03:00,0,,http://www.doctoralia.com.br/alyne-ranaci,2022-10-28 20:58:02
+765331,Dra.,Marcela Castro Giffoni,Rio de Janeiro,rio-de-janeiro,rio-de-janeiro-rj,cardiologista-pediatrico,47,2022-10-25T11:10:32-03:00,0,450,http://www.doctoralia.com.br/marcela-castro-giffoni-2,2022-10-28 20:58:04
+405228,Dra.,Andrea Sena,Recife,recife,pernambuco-pe,cardiologista-pediatrico,76,2022-10-27T12:50:23-03:00,0,,http://www.doctoralia.com.br/andrea-sena,2022-10-28 20:58:06
+305288,Dra.,Lúcia Moser,Recife,recife,pernambuco-pe,cardiologista-pediatrico,238,2022-10-27T22:44:48-03:00,0,,http://www.doctoralia.com.br/lucia-moser,2022-10-28 20:58:09
+700483,Dra.,Carolina Ribeiro Costa,Belo Horizonte,belo-horizonte,minas-gerais-mg,cardiologista-pediatrico,28,2022-10-25T21:32:14-03:00,0,,http://www.doctoralia.com.br/carolina-ribeiro-costa-2,2022-10-28 20:58:10
+740820,Dra.,Mariana Carvalho,Recife,recife,pernambuco-pe,cardiologista-pediatrico,43,2022-10-07T12:29:13-03:00,0,300,http://www.doctoralia.com.br/mariana-carvalho-5,2022-10-28 20:58:12
+740748,Dra.,Vanessa Pacífico,Recife,recife,pernambuco-pe,cardiologista-pediatrico,91,2022-10-26T14:50:35-03:00,0,,http://www.doctoralia.com.br/vanessa-pacifico-2,2022-10-28 20:58:14
+676535,Dra.,Cecília Teixeira De Carvalho Fonseca,Rio de Janeiro,rio-de-janeiro,rio-de-janeiro-rj,cardiologista-pediatrico,471,2022-10-27T23:57:45-03:00,1,500,http://www.doctoralia.com.br/cecilia-teixeira-de-carvalho-fonseca,2022-10-28 20:58:14
+782866,Dr.,Flávio Andrade,Americana,americana,sao-paulo-sp,cirurgiao-buco-maxilo-facial,8,2022-10-24T16:22:03-03:00,1,200,http://www.doctoralia.com.br/flavio-andrade-4,2022-10-28 20:58:17
+725804,Dr.,Beethoven Costa,Itaúna,bauru,minas-gerais-mg,cirurgiao-buco-maxilo-facial,9,2022-10-01T13:18:24-03:00,1,200,http://www.doctoralia.com.br/beethoven-costa,2022-10-28 20:58:22
+151054,Dr.,Nilo Gama,Barueri,barueri,sao-paulo-sp,cirurgiao-buco-maxilo-facial,212,2022-10-26T19:05:49-03:00,1,300,http://www.doctoralia.com.br/nilo-gama,2022-10-28 20:58:24
+243891,Dr.,Aluisio Galiano,São Paulo,sao-paulo,sao-paulo-sp,cirurgiao-buco-maxilo-facial,22,2022-05-24T15:34:48-03:00,0,500,http://www.doctoralia.com.br/aluisio-galiano,2022-10-28 20:58:25
+574059,Dr.,Eduardo Santana Jacob,Barretos,barretos,sao-paulo-sp,cirurgiao-buco-maxilo-facial,89,2022-10-25T21:11:34-03:00,1,200,http://www.doctoralia.com.br/eduardo-santana-jacob,2022-10-28 20:58:29
+700287,Dr.,Matheus S. Minucci,Uberlândia,uberlandia,minas-gerais-mg,dentista,76,2022-10-17T16:35:56-03:00,1,250,http://www.doctoralia.com.br/matheus-s-minucci,2022-10-28 20:58:31
+156662,Dr.,Mohamad Nagi Bou Wadi,Curitiba,curitiba,parana-pr,cirurgiao-buco-maxilo-facial,65,2022-08-18T10:21:57-03:00,1,250,http://www.doctoralia.com.br/mohamad-nagi-bou-wadi,2022-10-28 20:58:33
+39953,Dr.,Mauricío Romanowski,Curitiba,curitiba,parana-pr,cirurgiao-buco-maxilo-facial,346,2022-10-24T11:21:50-03:00,0,250,http://www.doctoralia.com.br/mauricio-romanowski,2022-10-28 20:58:34
+603629,Dra.,Juliana Prado,São Paulo,sao-paulo,sao-paulo-sp,cirurgiao-buco-maxilo-facial,13,2022-04-19T17:10:21-03:00,0,80,http://www.doctoralia.com.br/juliana-prado-2,2022-10-28 20:58:37
+524397,Dr.,Renato Barjona Miranda De Miranda,Uberlândia,uberlandia,minas-gerais-mg,dentista,176,2022-10-21T08:31:43-03:00,1,250,http://www.doctoralia.com.br/renato-barjona-miranda-de-miranda,2022-10-28 20:58:39
+746819,Dr.,Heitor Fontes,Florianópolis,florianopolis,santa-catarina-sc,cirurgiao-buco-maxilo-facial,12,2022-10-07T19:11:25-03:00,0,250,http://www.doctoralia.com.br/heitor-fontes,2022-10-28 20:58:40
+265401,Dr.,Denis Pimenta E Souza,São Paulo,sao-paulo,sao-paulo-sp,cirurgiao-buco-maxilo-facial,159,2022-10-25T16:55:25-03:00,1,300,http://www.doctoralia.com.br/denis-pimenta-e-souza,2022-10-28 20:58:42
+523158,Dr.,João Pancini,Curitiba,curitiba,parana-pr,cirurgiao-buco-maxilo-facial,50,2022-10-28T10:09:14-03:00,0,150,http://www.doctoralia.com.br/joao-pancini,2022-10-28 20:58:44
+84269,Dr.,Samuel De Souza Moraes,São Paulo,sao-paulo,sao-paulo-sp,cirurgiao-buco-maxilo-facial,21,2022-09-09T12:48:26-03:00,1,350,http://www.doctoralia.com.br/samuel-de-souza-moraes,2022-10-28 20:58:45
+218592,,Francisco José Lima Maciel,São Luís,sao-luis,maranhao-ma,cirurgiao-buco-maxilo-facial,38,2022-10-21T11:19:47-03:00,0,200,http://www.doctoralia.com.br/francisco-jose-lima-maciel,2022-10-28 20:58:46
