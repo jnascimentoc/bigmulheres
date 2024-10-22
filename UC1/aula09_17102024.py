@@ -44,8 +44,8 @@ print(f"Subtração:{subtrair(n1,n2)}")
 print(f"Multiplicação:{multiplicar(n1,n2)}")
 print(f"Divisão:{dividir(n1,n2)}")
 
-import calculadora
-from calculadora import somar
+import UC1.calculadora as calculadora
+from UC1.calculadora import somar
 print(somar(2,8))
 
 #Tratamento de excessões (Try e Except)
