@@ -15,3 +15,5 @@ INSERT INTO professores VALUES (5,'Carlos Alberto', 'M');
 INSERT INTO professores VALUES (6,'Viviane Almeida', 'F');
 INSERT INTO professores VALUES (7,'Clarissa Castro', 'F');
 INSERT INTO professores VALUES (8,'Fabio Paulo', 'M');
+
+SELECT * FROM professores WHERE genero = 'F'
