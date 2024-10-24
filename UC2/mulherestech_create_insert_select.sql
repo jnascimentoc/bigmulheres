@@ -37,5 +37,13 @@ CREATE TABLE turma (
     id_professor INTEGER
 );
 
+CREATE TABLE unidade (
+	id_unidade INTEGER PRIMARY KEY,
+    endereco TEXT NOT NULL,
+    telefone FLOAT NOT NULL,
+    email TEXT NOT NULL
+    
+);
+
 
 
