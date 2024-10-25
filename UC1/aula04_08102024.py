@@ -147,7 +147,7 @@ def calcular_media(av1, av2, optativa):
 
 def verificar_situacao(media):
     if media >= 6.0:
-        return "✅ Aprovado"
+        return "✅ Aprovad"
     elif media < 3.0:
         return "❌ Reprovado"
     else:

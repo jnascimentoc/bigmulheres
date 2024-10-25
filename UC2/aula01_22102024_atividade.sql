@@ -18,4 +18,4 @@ INSERT INTO professores VALUES (7,'Clarissa Castro', 'F');
 INSERT INTO professores VALUES (8,'Fabio Paulo', 'M');
 
 -- fetch some values
-SELECT * FROM professores WHERE genero = 'M'
+SELECT * FROM professores WHERE genero = 'F'

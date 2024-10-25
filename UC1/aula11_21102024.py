@@ -50,7 +50,6 @@ pd.set_option('display.max_rows',10)
 
 import pandas as pd
 df_clothes = pd.read_csv('clothes_price.csv')
-print("--------------------------------")
 print(df_clothes.head())
 print("--------------------------------")
 print(df_clothes.tail())
